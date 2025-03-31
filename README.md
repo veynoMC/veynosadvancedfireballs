@@ -2,7 +2,7 @@
 
 A Minecraft Plugin that allows you to throw fireballs and set a custom explosion radius with server performance in mind
 
-![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)
+![Version](https://img.shields.io/github/v/release/veynomc/veynosadvancedfireballs)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
 
 ## Features
@@ -13,7 +13,7 @@ A Minecraft Plugin that allows you to throw fireballs and set a custom explosion
 
 ## Installation
 
-1. Download the latest jar from the [Releases](https://github.com/veynoMC/veynoschallengecore/releases) section
+1. Download the latest jar from the [Releases](https://github.com/veynoMC/veynosadvancedfireballs/releases) section
 2. place the file in the `/plugins/` folder of your server
 4. restart the Server or load the plugin
 
@@ -26,6 +26,6 @@ A Minecraft Plugin that allows you to throw fireballs and set a custom explosion
 
 | Command | Description | Permission |
 |--------|--------------|--------------|
-| `/start` | starts the challange. all installed challenges will be active | veynoschallengecore.challengestate |
+| `//fireballexplosionsize` | sets the explosion radius of thrown fireballs | veynosadvancedfireballs.configure |
 
 
