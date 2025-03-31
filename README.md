@@ -21,3 +21,11 @@ A Minecraft Plugin that allows you to throw fireballs and set a custom explosion
 
 - This Plugin requires FAWE to be installed on the Server
 - you can find the latest release [here](https://github.com/IntellectualSites/FastAsyncWorldEdit/releases)
+
+## Commands
+
+| Command | Description | Permission |
+|--------|--------------|--------------|
+| `/start` | starts the challange. all installed challenges will be active | veynoschallengecore.challengestate |
+
+
