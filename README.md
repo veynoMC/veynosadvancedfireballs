@@ -3,7 +3,7 @@
 A Minecraft Plugin that allows you to throw fireballs and set a custom explosion radius with server performance in mind
 
 ![Version](https://img.shields.io/github/v/release/veynomc/veynosadvancedfireballs)
-![Minecraft Version](https://img.shields.io/badge/Minecraft-paper-1.21.4-brightgreen)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
 
 ## Features
 
