@@ -7,7 +7,7 @@ A Minecraft Plugin that allows you to throw fireballs and set a custom explosion
 
 ## Features
 
-- Throwable Fireballs: just click a fireball and it will be thrown in the direction you are facing and create an explosion upon impact
+- Throwable Fireballs: just click a fireball and it will be thrown in the direction the player is facing and create an explosion upon impact
 - configurability: configure the Fireball explosion radius with the command /fireballexplosionsize
 - performance: This pLugin processes block changes asynchronously using FAWE to maintain excelent server performance even while chaning thousands of blocks
 
