@@ -28,4 +28,7 @@ A Minecraft Plugin that allows you to throw fireballs and set a custom explosion
 |--------|--------------|--------------|
 | `/fireballexplosionsize` | sets the explosion radius of thrown fireballs | veynosadvancedfireballs.configure |
 
+## License
+
+You are free to use my plugin for personal use as long as you do not claim it as your own, redistribute it, or attempt to commercialize it. View the [LICENSE](LICENSE) file for mor details.
 
