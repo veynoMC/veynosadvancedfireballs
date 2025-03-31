@@ -20,4 +20,4 @@ A Minecraft Plugin that allows you to throw fireballs and set a custom explosion
 ## Requirements
 
 - This Plugin requires FAWE to be installed on the Server
-- you can find the latest FAWE release [here](https://github.com/IntellectualSites/FastAsyncWorldEdit/releases)
+- you can find the latest release [here](https://github.com/IntellectualSites/FastAsyncWorldEdit/releases)
