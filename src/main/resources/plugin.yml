@@ -1,0 +1,9 @@
+name: VeynosAdvancedFireballs
+version: '1.0'
+main: eu.veyno.veynosAdvancedFireballs.VeynosAdvancedFireballs
+api-version: '1.21'
+depend: [FastAsyncWorldEdit]
+commands:
+  fireballexplosionsize:
+    usage: /fireballexplosionsize <radius>
+    description: sets fireball explosion radius
